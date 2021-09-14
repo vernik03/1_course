@@ -1,0 +1,121 @@
+﻿  Source.cpp
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(460,22): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(557,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(559,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(574,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(574,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(592,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(592,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(601,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(611,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(617,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(619,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(639,67): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(639,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(640,72): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(640,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(642,70): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(642,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(643,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(643,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(668,70): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(668,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(669,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(669,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(672,70): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(672,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(673,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(673,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(678,68): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(678,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(679,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(679,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(696,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(709,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(711,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(726,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(726,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(744,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(744,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\laba3(2)\laba3(2)\Source.cpp(207): warning C4715: search: значение возвращается не при всех путях выполнения
+  laba3(2).vcxproj -> D:\Programming\Visual Studio\repos\laba3(2)\Debug\laba3(2).exe
