@@ -1,0 +1,25 @@
+﻿  lab5.cpp
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(196,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(196,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(205,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(205,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(341,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(341,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(350,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(350,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(363,25): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(501,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(501,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(510,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(510,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(523,25): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Programming\Visual Studio\repos\LABA5\lab5\lab5\lab5.cpp(263): warning C4715: game_pause: значение возвращается не при всех путях выполнения
+  lab5.vcxproj -> D:\Programming\Visual Studio\repos\LABA5\lab5\Debug\lab5.exe
