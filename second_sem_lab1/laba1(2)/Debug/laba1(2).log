@@ -1,0 +1,9 @@
+﻿  laba1(2).cpp
+D:\Programming\Visual Studio\repos\laba1(2)\laba1(2)\laba1(2).cpp(146,15): warning C4101: elem: неиспользованная локальная переменная
+D:\Programming\Visual Studio\repos\laba1(2)\laba1(2)\laba1(2).cpp(275,25): warning C4305: =: усечение из "double" в "float"
+D:\Programming\Visual Studio\repos\laba1(2)\laba1(2)\laba1(2).cpp(280,25): warning C4305: =: усечение из "double" в "float"
+D:\Programming\Visual Studio\repos\laba1(2)\laba1(2)\laba1(2).cpp(284,24): warning C4305: =: усечение из "double" в "float"
+D:\Programming\Visual Studio\repos\laba1(2)\laba1(2)\laba1(2).cpp(288,25): warning C4305: =: усечение из "double" в "float"
+D:\Programming\Visual Studio\repos\laba1(2)\laba1(2)\laba1(2).cpp(292,24): warning C4305: =: усечение из "double" в "float"
+D:\Programming\Visual Studio\repos\laba1(2)\laba1(2)\laba1(2).cpp(296,24): warning C4305: =: усечение из "double" в "float"
+  laba1(2).vcxproj -> D:\Programming\Visual Studio\repos\laba1(2)\Debug\laba1(2).exe
